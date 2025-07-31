@@ -25,13 +25,14 @@ A privacy-preserving, offline AI assistant built using [LangChain](https://www.l
 - Optional: Streamlit frontend (future step)
 
 ## 📸 Screenshots / Demo (Optional)
-> _You can upload screenshots or GIFs from your CLI interface or demo screenshots here._
+> _You can upload screenshots or GIFs from your CLI interf
+
+https://github.com/user-attachments/assets/154e0113-e3cb-4741-a493-cc1cacda1a1c
+
+ace or demo screenshots here._
 
 ## 🔄 Future Work
 - Integrate **retrieval-augmented generation (RAG)** with data dictionary
 - Add **memory and chat history**
 - Deploy a **web-based chatbot interface** (e.g., using Streamlit or Gradio)
 - Support **multiple model backends** (Copilot, GPT-4, Claude)
-
-## 🤝 Acknowledgements
-Special thanks to **Wayne County HHVS**, **Ali Asadi**, and the IT team for providing guidance, data access, and support throughout the project.
