@@ -24,7 +24,7 @@ A privacy-preserving, offline AI assistant built using [LangChain](https://www.l
 - Terminal-based Q&A interface
 - Optional: Streamlit frontend (future step)
 
-## 📸 Screenshots / Demo (Optional)
+## 📸 Demo 
 
 
 https://github.com/user-attachments/assets/154e0113-e3cb-4741-a493-cc1cacda1a1c
